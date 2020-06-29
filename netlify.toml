@@ -2,3 +2,6 @@
   command = "yarn build"
   functions = "functions-build"
   publish = "public/"
+
+[[plugins]]
+package = "/plugins/save-build-env"
